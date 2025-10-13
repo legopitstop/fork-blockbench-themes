@@ -2,6 +2,7 @@
 name: Classic
 author: JannisX11 & Ewan Howell
 borders: false
+version: 1.0.0
 */
 body {
 	--color-ui: #282c34;
@@ -9,7 +10,7 @@ body {
 	--color-dark: #17191d;
 	--color-border: #181a1f;
 	--color-selected: #474d5d;
-	--color-elevated: #313640;
+	--color-elevated: #353944;
 	--color-button: #3a3f4b;
 	--color-bright_ui: #f4f3ff;
 	--color-accent: #3e90ff;
